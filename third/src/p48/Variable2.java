@@ -16,9 +16,11 @@ public class Variable2 {
 		
 		long num = 12345678900L;
 		//뒤에 L이나 l을 식별자로 표시함으로서 long형으로 처리할수있음
+		System.out.println(num);
 		
 		char myChar = 'A';
 		//문자 자료형인 char형은 2바이트를 사용한다. 여기서'A'는 문자그대로가 아닌 그문자에 해당하는 정수값 즉, 아스키코드값으로서 저장됨
+		System.out.println(myChar);
 		
 		
 				
