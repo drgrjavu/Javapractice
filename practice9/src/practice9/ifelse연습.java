@@ -35,7 +35,7 @@ public class ifelse연습 {
 		 *}
 		 *라고 할때 조건연산자로 표현하면 grade = (score >= 90) ? 'A' : 'B' 가된다. 조건문이 90이상이 참이게되면 A 거짓이면 B 의 결과를 grade에 대입한다
 		 */
-		//ss
+		//s
 		
 	}
 
