@@ -3,12 +3,10 @@ package singleton;
 public class CarFactory {
   private static CarFactory instance = new CarFactory();
 
-  CarFactory() {}
+  private CarFactory() {}
 
   public static CarFactory getInstance () {
-    if(instance == null) {
-      instance = new CarFactory();
-    }
+
     return instance;
   }
 
